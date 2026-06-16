@@ -1,0 +1,28 @@
+ form{
+
+    background-color: aliceblue;
+    width: 450px;
+    margin: 0 auto;
+    padding: 50px;
+    border-radius: 15px;
+
+ }
+
+ legend{
+
+    font-size: 25px;
+    text-align: center;
+    font-weight: bolder;
+
+ }
+
+ input[type=text],input[type=email],input[type=password],
+ input[type=date],input[type=datetime-local],input[type=file],
+ input[type=number], select{  
+     width: 95%; 
+     height: 25px; 
+     border-radius: 35px;
+     border: none;
+     margin-top: 5px;
+     padding-left: 10px;
+    }
